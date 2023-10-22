@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Pengxiang Zhu"
-  avatar           : "images/intro.jpg"
+  avatar           : "images/intro_img.jpg"
   bio              : "Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         :
