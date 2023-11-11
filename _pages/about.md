@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently an undergraduate student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), majoring in Computer Science and Technology (IEEE Pilot Class). I'm now a research intern in [Machine Vision and Intelligence Group](https://www.mvig.org/)(MVIG), under the supervision of Prof. [Cewu Lu](https://www.mvig.org/) and Phd. [Lixin Yang](https://lixiny.github.io/). My research interests include 3D Reconstruction, Hand-Object Interaction, etc.
+I'm currently an undergraduate student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), majoring in Computer Science and Technology (IEEE Pilot Class). I'm now a research intern in [Machine Vision and Intelligence Group](https://www.mvig.org/)(MVIG), under the supervision of Prof. [Cewu Lu](https://www.mvig.org/) and Dr. [Lixin Yang](https://lixiny.github.io/). My research interests include 3D Reconstruction, Hand-Object Interaction, etc.
 
 
 # 🔥 News
@@ -78,7 +78,7 @@ I'm currently an undergraduate student at [Shanghai Jiao Tong University](https:
 # 🎖 Honors and Awards
 - *2022* Academic Excellence Scholarship of SJTU (top 10%)
 - *2023* Academic Excellence Scholarship of SJTU (top 20%)
-- *2022.3* Finalist of Mathematical Contest of Modeling(top 5%)
+- *2022.3* Finalist of Mathematical Contest of Modeling (top 5%)
 
 # 📖 Educations
 - *2021.09 - (now)*, Shanghai Jiao Tong University, Shanghai, China.
