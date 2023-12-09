@@ -21,25 +21,27 @@ I'm currently an undergraduate student at [Shanghai Jiao Tong University](https:
 
 
 # 🔥 News
+- *2023.12*: One paper **FAVOR** was accepted by [AAAI 2024](https://aaai.org/aaai-conference/)
 - *2023.03*: &nbsp;🎉🎉 I joined MVIG and began exploring the field of Computer Vision.
 
 # 📝 Publications 
 
-- Still working hard!
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="badge">AAAI 2024</div>
+    <div>
+      <img src="images/FAVOR.png" alt="sym" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p><strong>FAVOR: Full-body AR-driven Virtual Object Rearrangement Guided by Textual Instructions</strong></p>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+    <p>Kailin Li, Lixin Yang, Zenan Lin, Jian Xu, Xinyu Zhan, Yifei Zhao, <b>Pengxiang Zhu</b>, Wenxiong Kang, Kejian Wu, Cewu Lu </p>
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  <p><b><a href=""></a></b></p>
+  <p>FAVOR is a novel dataset for Full-body AR-driven Virtual Object Rearrangement that uniquely employs motion capture systems and VR. A pipeline for producing digital human rearrangement motion sequences is also presented.</p>
+  </div>
 </div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 💻 Projects
 
