@@ -78,8 +78,8 @@ I'm currently an undergraduate student at [Shanghai Jiao Tong University](https:
 
 
 # 🎖 Honors and Awards
-- *2022* Academic Excellence Scholarship of SJTU (top 10%)
 - *2023* Academic Excellence Scholarship of SJTU (top 10%)
+- *2022* Academic Excellence Scholarship of SJTU (top 10%)
 - *2022.3* Finalist of Mathematical Contest of Modeling (top 5%)
 
 # 📖 Educations
