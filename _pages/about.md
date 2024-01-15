@@ -97,7 +97,7 @@ I'm currently an undergraduate student at [Shanghai Jiao Tong University](https:
   <div class="paper-box-image">
   <div>
   <div class="badge">CS3602</div>
-  <img src="images/CS3602.png" width="100%"></div>
+  <img src="images/CS3602.jpg" width="100%"></div>
   </div>
   <div class="paper-box-text">
     <p><a href="https://github.com/JubSteven/CS3602-Final-Project">Chinese Slot Language Understanding</a></p>
