@@ -121,7 +121,7 @@ I'm currently an undergraduate student at [Shanghai Jiao Tong University](https:
   <div class="paper-box-image">
     <div>
       <a href="https://www.mvig.org/">
-      <img src="images/SJTU_logo.png" alt="sym" width="200px" style="padding: 10px">
+      <img src="images/SJTU_logo.png" alt="sym" width="80px" style="padding: 10px">
       </a>
     </div>
   </div>
