@@ -23,6 +23,7 @@ I am now preparing my MS/PhD applications for Fall 2025, so if interested, pleas
 
 # 🔥 News
 - *2023.12*: One paper **FAVOR** was accepted by [AAAI 2024](https://aaai.org/aaai-conference/)
+- *2023.07*: I have spent wonderful two weeks attending the summer course [IDS2301](https://datascience.hku.hk/2023/07/idss-2301-immersing-oneself-in-a-very-meaningful-vacation-through-the-hku-ids-summer-course-stay-proud-as-our-first-batch-of-potential-data-scientists/) at [HKU-IDS](https://datascience.hku.hk/#).
 - *2023.03*: &nbsp;🎉🎉 I joined MVIG and began exploring the field of Computer Vision.
 
 # 📝 Publications 
