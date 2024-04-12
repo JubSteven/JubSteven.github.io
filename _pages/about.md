@@ -125,7 +125,7 @@ I am now preparing my MS/PhD applications for Fall 2025, so if interested, pleas
 
 # 📖 Educations
 - *2021.09 - (now)*, Shanghai Jiao Tong University, Shanghai, China.
-- *2018.09 - 2021.06*, Shanghai High School, Shanghai, China.
+- *2018.09 - 2021.06*, Shanghai High School, Shanghai, China (Outstanding Graduate).
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
