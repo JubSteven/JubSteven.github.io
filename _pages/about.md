@@ -31,6 +31,23 @@ I intend to gain some experience as an intern in a company while prepare my MS a
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
+      <!-- <img src="images/FAVOR.png" alt="sym" width="100%"> -->
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p><strong>Multi-view Hand Reconstruction with a Point-Embedded Transformer</strong></p>
+
+    <p><a href="">Coming Soon</a></p>
+
+    <p>Lixin Yang, Licheng Zhong, <b>Pengxiang Zhu</b>, Xinyu Zhan, Jian Xu, Cewu Lu </p>
+  
+  <p>We extend POEM, a framework for multi-view reconstruction presented in CVPR 2023 that generalizes to flexible camera numbers. We propose an optimized design of point-embedded transformer and train the network on multiple datasets to achieve SOTA results on major hand reconstruction dataset.</p>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
       <img src="images/FAVOR.png" alt="sym" width="100%">
     </div>
   </div>
