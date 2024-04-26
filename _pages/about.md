@@ -37,11 +37,11 @@ I intend to gain some experience as an intern in a company while prepare my MS a
   <div class="paper-box-text">
     <p><strong>Multi-view Hand Reconstruction with a Point-Embedded Transformer</strong></p>
 
-    <p><a href="">Coming Soon</a></p>
+    <p>Coming Soon</p>
 
     <p><a href="https://lixiny.github.io/">Lixin Yang</a>, <a href="https://colmar-zlicheng.github.io/">Licheng Zhong</a>, <b><u>Pengxiang Zhu</u></b>, Xinyu Zhan, Jian Xu, <a href="http://mvig.org">Cewu Lu</a> </p>
-  
-  <p>We extend POEM, a framework for multi-view reconstruction presented in CVPR 2023, to enable inputs with flexible camera numbers. We propose an optimized design of point-embedded transformer and train the network on multiple datasets to achieve SOTA results on major hand reconstruction dataset.</p>
+<!--   
+  <p>We extend POEM, a framework for multi-view reconstruction presented in CVPR 2023, to enable inputs with flexible camera numbers. We propose an optimized design of point-embedded transformer and train the network on multiple datasets to achieve SOTA results on major hand reconstruction datasets.</p> -->
   </div>
 </div>
 
