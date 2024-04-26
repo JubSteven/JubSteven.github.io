@@ -39,7 +39,7 @@ I intend to gain some experience as an intern in a company while prepare my MS a
 
     <p><a href="">Coming Soon</a></p>
 
-    <p>Lixin Yang, Licheng Zhong, <b>Pengxiang Zhu</b>, Xinyu Zhan, Jian Xu, Cewu Lu </p>
+    <p>Lixin Yang, Licheng Zhong, <b><u>Pengxiang Zhu</u></b>, Xinyu Zhan, Jian Xu, Cewu Lu </p>
   
   <p>We extend POEM, a framework for multi-view reconstruction presented in CVPR 2023 that generalizes to flexible camera numbers. We propose an optimized design of point-embedded transformer and train the network on multiple datasets to achieve SOTA results on major hand reconstruction dataset.</p>
   </div>
@@ -56,7 +56,7 @@ I intend to gain some experience as an intern in a company while prepare my MS a
 
     <p><a href="https://ojs.aaai.org/index.php/AAAI/article/view/28097">AAAI 2024</a></p>
 
-    <p>Kailin Li*, Lixin Yang*, Zenan Lin, Jian Xu, Xinyu Zhan, Yifei Zhao, <b>Pengxiang Zhu</b>, Wenxiong Kang, Kejian Wu, Cewu Lu </p>
+    <p>Kailin Li*, Lixin Yang*, Zenan Lin, Jian Xu, Xinyu Zhan, Yifei Zhao, <b><u>Pengxiang Zhu</u></b>, Wenxiong Kang, Kejian Wu, Cewu Lu </p>
 
     
   
