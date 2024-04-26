@@ -41,7 +41,7 @@ I intend to gain some experience as an intern in a company while prepare my MS a
 
     <p>Lixin Yang, Licheng Zhong, <b><u>Pengxiang Zhu</u></b>, Xinyu Zhan, Jian Xu, Cewu Lu </p>
   
-  <p>We extend POEM, a framework for multi-view reconstruction presented in CVPR 2023 that generalizes to flexible camera numbers. We propose an optimized design of point-embedded transformer and train the network on multiple datasets to achieve SOTA results on major hand reconstruction dataset.</p>
+  <p>We extend POEM, a framework for multi-view reconstruction presented in CVPR 2023, to enable inputs with flexible camera numbers. We propose an optimized design of point-embedded transformer and train the network on multiple datasets to achieve SOTA results on major hand reconstruction dataset.</p>
   </div>
 </div>
 
