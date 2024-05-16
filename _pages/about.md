@@ -103,13 +103,13 @@ I intend to gain some experience as an intern in a company or research instituti
     <p>Undergraduate Research Intern, <em>2023.3 - (now)</em></p>
     <p>Advisor: <a href="https://lixiny.github.io/">Lixin Yang</a>, <a href="https://www.mvig.org/">Cewu Lu</a></p>
   </div>
-  <div class="paper-box-image">
+  <!-- <div class="paper-box-image">
     <div>
       <a href="https://www.mvig.org/">
       <img src="images/SJTU_logo.png" alt="sym" width="80px" style="padding: 10px">
       </a>
     </div>
-  </div>
+  </div> -->
 </div>
 
 # 🎖 Honors and Awards
