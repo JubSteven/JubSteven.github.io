@@ -22,8 +22,7 @@ I intend to gain some experience as an intern in a company or research instituti
 
 
 # 🔥 News
-<!-- - *2023.5*: I will work as a research intern in [National University of Singapore](https://www.comp.nus.edu.sg/) under the supervision of Prof. [Lin Shao](https://linsats.github.io/) this summer! -->
-- *2023.6*: I will work as an intern in the AI department of [Bilibili](https://www.bilibili.com) this summer.
+- *2023.6*: I will work as an intern in the AI department of [bilibili](https://www.bilibili.com) this summer.
 - *2023.12*: One paper **FAVOR** was accepted by [AAAI 2024](https://aaai.org/aaai-conference/)
 - *2023.07*: I have spent wonderful two weeks attending the summer course [IDS2301](https://datascience.hku.hk/2023/07/idss-2301-immersing-oneself-in-a-very-meaningful-vacation-through-the-hku-ids-summer-course-stay-proud-as-our-first-batch-of-potential-data-scientists/) at [HKU-IDS](https://datascience.hku.hk/#).
 - *2023.03*: &nbsp;🎉🎉 I joined MVIG and began exploring the field of Computer Vision.
