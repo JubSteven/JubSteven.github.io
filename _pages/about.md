@@ -97,23 +97,26 @@ I intend to gain some experience as an intern in a company or research instituti
 </div>
 
 # 📇 Experiences
-<div class="paper-box">
+<div class="paper-box-right">
   <div class="paper-box-text">
     <p><a href="https://www.mvig.org/">Machine Vision and Intelligence Group</a></p>
     <p>Undergraduate Research Intern, <em>2023.3 - (now)</em></p>
     <p>Advisor: <a href="https://lixiny.github.io/">Lixin Yang</a>, <a href="https://www.mvig.org/">Cewu Lu</a></p>
   </div>
-</div>
-
-
-<div class="paper-box">
+  <!-- <div class="paper-box-image">
+    <div>
+      <a href="https://www.mvig.org/">
+      <img src="images/SJTU_logo.png" alt="sym" width="80px" style="padding: 10px">
+      </a>
+    </div>
+  </div> -->
+<div class="paper-box-right">
   <div class="paper-box-text">
     <p><a href="https://www.mvig.org/">Department of AI Technology, bilibili</a></p>
     <p>Algorithm Intern, <em>2024.6 - (now)</em></p>
-    <p>Video Understanding and Machine Review</p>
+    <p>Video Understanding and Machine Reviews</p>
   </div>
 </div>
-
 
 # 🎖 Honors and Awards
 - *2023* Academic Excellence Scholarship of SJTU (top 10%)
