@@ -38,6 +38,7 @@
 @import "vendor/font-awesome/solid";
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
+@import "vendor/zhy";
 @import "print";
 
 .paper-box {
@@ -71,19 +72,52 @@
         .paper-box-image{
             justify-content: left;
             min-width: 200px;
-            max-width: 40%;
+            max-width: 30%;
             order: 1;
         }
         
         .paper-box-text{
             justify-content: left;
             padding-left: 2em;
-            max-width: 60%;
+            max-width: 70%;
             order: 2;
         }
 
     }
 
+
+}
+
+// paper-box image right
+// and align image right!!!
+.paper-box-right {
+    display: flex;
+    justify-content: space-between;
+    // align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-bottom: 1px #efefef solid;
+    padding: 2em 0 2em 0;
+
+    .paper-box-image{
+        justify-content: right;
+        min-width: 20%;
+        max-width: 40%;
+        order: 2;
+        img {
+            max-width: 400px;
+            box-shadow: 3px 3px 6px #888;
+            object-fit: cover;
+        }
+    }
+    
+    .paper-box-text{
+        justify-content: left;
+        padding-left: 2em;
+        min-width: 20%;
+        max-width: 60%;
+        order: 1;
+    }
 
 }
 
@@ -104,6 +138,6 @@ h1:before, .anchor:before {
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
-    background-color: #00369f;
+    background-color: hsl(220, 100%, 31%);
     font-size: .8em;
 }
