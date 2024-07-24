@@ -42,7 +42,7 @@ I intend to gain some experience as an intern in a company or research instituti
 
     <p><a href="https://lixiny.github.io/">Lixin Yang</a>, <a href="https://colmar-zlicheng.github.io/">Licheng Zhong</a>, <b><u>Pengxiang Zhu</u></b>, Xinyu Zhan, Jian Xu, <a href="http://mvig.org">Cewu Lu</a> </p>
 <!--   
-  <p>We extend POEM, a framework for multi-view reconstruction presented in CVPR 2023, to enable inputs with flexible camera numbers. We propose an optimized design of point-embedded transformer and train the network on multiple datasets to achieve SOTA results on major hand reconstruction datasets.</p> -->
+  <p>We extend POEM, a framework for multi-view reconstruction presented in CVPR 2023, to enable inputs with flexible camera numbers. We propose an optimized design of point-embedded transformer and train the network on multiple datasets to achieve SOTA results on multiple hand reconstruction datasets. The method generalizes to unseen datasets. </p> -->
   </div>
 </div>
 
@@ -110,6 +110,12 @@ I intend to gain some experience as an intern in a company or research instituti
       </a>
     </div>
   </div> -->
+<div class="paper-box-right">
+  <div class="paper-box-text">
+    <p><a href="https://www.mvig.org/">Department of AI Technology, bilibili</a></p>
+    <p>Algorithm Intern, <em>2024.6 - (now)</em></p>
+    <p>Video Understanding and Machine Reviews</p>
+  </div>
 </div>
 
 # 🎖 Honors and Awards
