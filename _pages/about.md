@@ -110,7 +110,7 @@ I intend to gain some experience as an intern in a company or research instituti
   <div class="paper-box-text">
     <p><a href="https://www.mvig.org/">Department of AI Technology, bilibili</a></p>
     <p>Algorithm Intern, <em>2024.6 - (now)</em></p>
-    <p>Video Understanding and Machine Reviews</p>
+    <p>Video Understanding and Machine Review</p>
   </div>
 </div>
 
