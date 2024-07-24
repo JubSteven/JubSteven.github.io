@@ -110,11 +110,12 @@ I intend to gain some experience as an intern in a company or research instituti
       </a>
     </div>
   </div> -->
-<div class="paper-box-right">
-  <div class="paper-box-text">
-    <p><a href="https://www.mvig.org/">Department of AI Technology, bilibili</a></p>
-    <p>Algorithm Intern, <em>2024.6 - (now)</em></p>
-    <p>Video Understanding and Machine Reviews</p>
+  <div class="paper-box-right">
+    <div class="paper-box-text">
+      <p><a href="https://www.mvig.org/">Department of AI Technology, bilibili</a></p>
+      <p>Algorithm Intern, <em>2024.6 - (now)</em></p>
+      <p>Video Understanding and Machine Reviews</p>
+    </div>
   </div>
 </div>
 
