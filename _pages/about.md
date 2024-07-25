@@ -103,6 +103,13 @@ I intend to gain some experience as an intern in a company or research instituti
     <p>Undergraduate Research Intern, <em>2023.3 - (now)</em></p>
     <p>Advisor: <a href="https://lixiny.github.io/">Lixin Yang</a>, <a href="https://www.mvig.org/">Cewu Lu</a></p>
   </div>
+  <div class="paper-box-image">
+    <div>
+      <a href="https://www.mvig.org/">
+      <img src="images/mvig.png" alt="sym" width="100px" style="padding: 10px">
+      </a>
+    </div>
+  </div>
 </div>
   <!-- <div class="paper-box-image">
     <div>
@@ -116,6 +123,13 @@ I intend to gain some experience as an intern in a company or research instituti
     <p><a href="https://www.mvig.org/">Department of AI Technology, bilibili</a></p>
     <p>Algorithm Intern, <em>2024.6 - (now)</em></p>
     <p>Video Understanding and Machine Reviews</p>
+  </div>
+  <div class="paper-box-image">
+    <div>
+      <a href="https://www.bilibili.com/">
+      <img src="images/bilibili.jpg" alt="sym" width="100px" style="padding: 10px">
+      </a>
+    </div>
   </div>
 </div>
 
