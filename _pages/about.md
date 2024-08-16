@@ -32,7 +32,7 @@ I intend to gain some experience as an intern in a company or research instituti
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <!-- <img src="images/FAVOR.png" alt="sym" width="100%"> -->
+      <img src="images/POEM-v2.png" alt="sym" width="100%">
     </div>
   </div>
   <div class="paper-box-text">
@@ -40,9 +40,9 @@ I intend to gain some experience as an intern in a company or research instituti
 
     <p>Coming Soon</p>
 
-    <p><a href="https://lixiny.github.io/">Lixin Yang</a>, <a href="https://colmar-zlicheng.github.io/">Licheng Zhong</a>, <b><u>Pengxiang Zhu</u></b>, Xinyu Zhan, Jian Xu, <a href="http://mvig.org">Cewu Lu</a> </p>
-<!--   
-  <p>We extend POEM, a framework for multi-view reconstruction presented in CVPR 2023, to enable inputs with flexible camera numbers. We propose an optimized design of point-embedded transformer and train the network on multiple datasets to achieve SOTA results on multiple hand reconstruction datasets. The method generalizes to unseen datasets. </p> -->
+    <p><a href="https://lixiny.github.io/">Lixin Yang</a>, <a href="https://colmar-zlicheng.github.io/">Licheng Zhong</a>, <b><u>Pengxiang Zhu</u></b>, Xinyu Zhan, Junxiao Kong, Jian Xu, <a href="http://mvig.org">Cewu Lu</a> </p>
+  
+  <p>POEM is a generalizable multi-view hand mesh reconstruction model which embeds a static basis point within the multi-view stereo space. To infer accurate 3D hand mesh from multi-view images, POEM introduce a point-embedded transformer decoder. By employing a combination of five large-scale multi-view datasets and sufficient data augmentation, POEM demonstrates superior generalization ability in real-world applications.  </p>
   </div>
 </div>
 
