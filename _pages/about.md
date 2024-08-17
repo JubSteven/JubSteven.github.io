@@ -54,12 +54,9 @@ I intend to gain some experience as an intern in a company or research instituti
   </div>
   <div class="paper-box-text">
     <p><strong>FAVOR: Full-body AR-driven Virtual Object Rearrangement Guided by Textual Instructions</strong></p>
-
-    <p><a href="https://ojs.aaai.org/index.php/AAAI/article/view/28097">AAAI 2024</a></p>
+    <p><strong>AAAI 2024</strong> | <a href="https://ojs.aaai.org/index.php/AAAI/article/view/28097">Paper</a>
 
     <p><a href="https://kailinli.top/">Kailin Li</a>*, <a href="https://lixiny.github.io/">Lixin Yang</a>*, Zenan Lin, Jian Xu, Xinyu Zhan, Yifei Zhao, <b><u>Pengxiang Zhu</u></b>, Wenxiong Kang, Kejian Wu, <a href="http://mvig.org">Cewu Lu</a></p>
-
-    
   
   <p>FAVOR is a novel dataset for Full-body AR-driven Virtual Object Rearrangement that uniquely employs motion capture systems and VR. A pipeline for producing digital human rearrangement motion sequences is also presented.</p>
   </div>
