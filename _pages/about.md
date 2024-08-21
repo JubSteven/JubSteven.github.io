@@ -38,7 +38,7 @@ I intend to gain some experience as an intern in a company or research instituti
   <div class="paper-box-text">
     <p><strong>Multi-view Hand Reconstruction with a Point-Embedded Transformer</strong></p>
 
-    <p>Coming Soon</p>
+    <p>Arxiv | <a href="https://arxiv.org/abs/2408.10581">Paper</a> | <a href="https://github.com/JubSteven/POEM-v2">Code</a></p>
 
     <p><a href="https://lixiny.github.io/">Lixin Yang</a>, <a href="https://colmar-zlicheng.github.io/">Licheng Zhong</a>, <b><u>Pengxiang Zhu</u></b>, Xinyu Zhan, Junxiao Kong, Jian Xu, <a href="http://mvig.org">Cewu Lu</a> </p>
   
