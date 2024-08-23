@@ -119,7 +119,7 @@ I intend to gain some experience as an intern in a company or research instituti
   <div class="paper-box-text">
     <p>Department of AI Technology, <a href="https://www.bilibili.com/">bilibili</a></p>
     <p>Algorithm Intern, <em>2024.6 - (now)</em></p>
-    <p>Video Understanding and Machine Reviews</p>
+    <p>Mentor: <a href=https://scholar.google.com/citations?user=hwBBFn4AAAAJ&hl=en&oi=sra>Jun Xu</a></p>
   </div>
   <div class="paper-box-image">
     <div>
