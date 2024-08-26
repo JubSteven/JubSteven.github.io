@@ -18,10 +18,11 @@ redirect_from:
 
 I'm currently an undergraduate student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), majoring in Computer Science and Technology (IEEE Pilot Class). I'm now a research intern in [Machine Vision and Intelligence Group](https://www.mvig.org/) (MVIG), under the supervision of Prof. [Cewu Lu](https://www.mvig.org/) and Prof. [Lixin Yang](https://lixiny.github.io/). My research interests revolve around the intersection between Computer Vision and Robotics, and I welcome any invitation for collaboration or discussion.
 
-I intend to gain some experience as an intern in a company or research institution while prepare my MS applications in Fall 2025. If you are interested, please drop me an email!
+I intend to gain some experience as an intern in a company or research institution while prepare my MS applications in Fall 2025. If you are interested, please drop me an email! (CV last updated: 2024.8.26)
 
 
 # 🔥 News
+- *2024.8*: We release **POEM-v2** as a generalizable multi-view hand mesh reconstruction model.
 - *2024.6*: I will work as an intern in the AI department of [bilibili](https://www.bilibili.com) this summer.
 - *2023.12*: One paper **FAVOR** was accepted by [AAAI 2024](https://aaai.org/aaai-conference/)
 - *2023.07*: I have spent wonderful two weeks attending the summer course [IDS2301](https://datascience.hku.hk/2023/07/idss-2301-immersing-oneself-in-a-very-meaningful-vacation-through-the-hku-ids-summer-course-stay-proud-as-our-first-batch-of-potential-data-scientists/) at [HKU-IDS](https://datascience.hku.hk/#).
