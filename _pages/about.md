@@ -33,6 +33,7 @@ I intend to gain some experience as an intern in a company or research instituti
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
+      <div class="badge">Arxiv</div>
       <img src="images/POEM-v2.png" alt="sym" width="100%">
     </div>
   </div>
@@ -50,6 +51,7 @@ I intend to gain some experience as an intern in a company or research instituti
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
+      <div class="badge">AAAI 2024</div>
       <img src="images/FAVOR.png" alt="sym" width="100%">
     </div>
   </div>
@@ -119,7 +121,7 @@ I intend to gain some experience as an intern in a company or research instituti
 <div class="paper-box-right">
   <div class="paper-box-text">
     <p>Department of AI Technology, <a href="https://www.bilibili.com/">bilibili</a></p>
-    <p>Algorithm Intern, <em>2024.6 - (now)</em></p>
+    <p>Algorithm Intern, <em>2024.6 - 2024.9</em></p>
     <p>Mentor: <a href="https://scholar.google.com/citations?user=hwBBFn4AAAAJ&hl=en&oi=sra">Jun Xu</a></p>
   </div>
   <div class="paper-box-image">
