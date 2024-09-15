@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently an undergraduate student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), majoring in Computer Science and Technology (IEEE Pilot Class). I'm now a research intern in [Machine Vision and Intelligence Group](https://www.mvig.org/) (MVIG), under the supervision of Prof. [Cewu Lu](https://www.mvig.org/) and Prof. [Lixin Yang](https://lixiny.github.io/). My research interests revolve around the intersection between Computer Vision and Robotics, and I welcome any invitation for collaboration or discussion.
+I'm currently an undergraduate student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), majoring in Computer Science and Technology (IEEE Pilot Class). I'm now a research intern in [Machine Vision and Intelligence Group](https://www.mvig.org/) (MVIG), under the supervision of Prof. [Cewu Lu](https://www.mvig.org/) and Prof. [Lixin Yang](https://lixiny.github.io/). My research interests include computer vision, multi-modal models as well as embodied intelligence. I welcome any invitation for collaboration or discussion.
 
 I intend to gain some experience as an intern in a company or research institution while prepare my MS applications in Fall 2025. If you are interested, please drop me an email! (CV last updated: 2024.8.26)
 
@@ -40,7 +40,7 @@ I intend to gain some experience as an intern in a company or research instituti
   <div class="paper-box-text">
     <p><strong>Multi-view Hand Reconstruction with a Point-Embedded Transformer</strong></p>
 
-    <p>Arxiv | <a href="https://arxiv.org/abs/2408.10581">Paper</a> | <a href="https://github.com/JubSteven/POEM-v2">Code</a></p>
+    <p>arXiv | <a href="https://arxiv.org/abs/2408.10581">Paper</a> | <a href="https://github.com/JubSteven/POEM-v2">Code</a></p>
 
     <p><a href="https://lixiny.github.io/">Lixin Yang</a>, <a href="https://colmar-zlicheng.github.io/">Licheng Zhong</a>, <b><u>Pengxiang Zhu</u></b>, Xinyu Zhan, Junxiao Kong, Jian Xu, <a href="http://mvig.org">Cewu Lu</a> </p>
   
