@@ -134,6 +134,7 @@ I intend to gain some experience as an intern in a company or research instituti
 </div>
 
 # 🎖 Honors and Awards
+- *2024* Academic Excellence Scholarship of SJTU (top 30%)
 - *2023* Academic Excellence Scholarship of SJTU (top 10%)
 - *2022* Academic Excellence Scholarship of SJTU (top 10%)
 - *2022.3* Finalist of Mathematical Contest of Modeling (top 5%)
