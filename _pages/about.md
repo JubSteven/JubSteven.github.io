@@ -16,9 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently an undergraduate student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), majoring in Computer Science and Technology (IEEE Pilot Class). I'm now a research intern in [Machine Vision and Intelligence Group](https://www.mvig.org/) (MVIG), under the supervision of Prof. [Cewu Lu](https://www.mvig.org/) and Prof. [Lixin Yang](https://lixiny.github.io/). My research interests include computer vision, multi-modal models as well as embodied intelligence. I welcome any invitation for collaboration or discussion.
-
-I intend to gain some experience as an intern in a company or research institution while prepare my MS applications in Fall 2025. If you are interested, please drop me an email! (CV last updated: 2024.8.26)
+I'm currently an undergraduate student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), majoring in Computer Science and Technology (IEEE Pilot Class). I'm now a research intern in [Machine Vision and Intelligence Group](https://www.mvig.org/) (MVIG), under the supervision of Prof. [Cewu Lu](https://www.mvig.org/) and Prof. [Lixin Yang](https://lixiny.github.io/). My research interests include computer vision, multi-modal models as well as embodied intelligence. I welcome any invitation for collaboration or discussion. If you are interested, please drop me an email! (CV last updated: 2025.1.14)
 
 
 # 🔥 News
