@@ -29,6 +29,10 @@ I'm currently an undergraduate student at [Shanghai Jiao Tong University](https:
 # 📝 Publications 
 
 <div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+    </div>
+  </div>
   <div class="paper-box-text">
     <p><strong>PoseAnything6D: Generalized Object Pose Estimation via Cousin Reference</strong></p>
 
