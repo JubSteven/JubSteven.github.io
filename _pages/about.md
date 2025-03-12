@@ -29,9 +29,18 @@ I'm currently an undergraduate student at [Shanghai Jiao Tong University](https:
 # 📝 Publications 
 
 <div class="paper-box">
+  <div class="paper-box-text">
+    <p><strong>PoseAnything6D: Generalized Object Pose Estimation via Cousin Reference</strong></p>
+
+    <p>In submission to ICCV 2025</p>
+  </div>
+</div>
+
+
+<div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <div class="badge">Arxiv</div>
+      <div class="badge">arXiv</div>
       <img src="images/POEM-v2.png" alt="sym" width="100%">
     </div>
   </div>
