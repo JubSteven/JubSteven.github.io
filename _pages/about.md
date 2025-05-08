@@ -16,10 +16,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently an undergraduate student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), majoring in Computer Science and Technology (IEEE Pilot Class). I'm now a research intern in [Machine Vision and Intelligence Group](https://www.mvig.org/) (MVIG), under the supervision of Prof. [Cewu Lu](https://www.mvig.org/) and Prof. [Lixin Yang](https://lixiny.github.io/). My research interests include computer vision, multi-modal models as well as embodied intelligence. I welcome any invitation for collaboration or discussion. If you are interested, please drop me an email! (CV last updated: 2025.1.14)
+I'm currently an undergraduate student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), majoring in Computer Science and Technology (IEEE Pilot Class). I'm now a research intern in [Machine Vision and Intelligence Group](https://www.mvig.org/) (MVIG), under the supervision of Prof. [Cewu Lu](https://www.mvig.org/) and Prof. [Lixin Yang](https://lixiny.github.io/). My research interests include computer vision, multi-modal models as well as embodied intelligence. I welcome any invitation for collaboration or discussion.
 
 
 # 🔥 News
+- *2025.5*: &nbsp;🎉🎉 I have accepted the offer from [National University of Singapore](https://nus.edu.sg/) and will pursue a master of computing in Artificial Intelligence starting in August 2025. 
 - *2024.8*: We release **POEM-v2** as a generalizable multi-view hand mesh reconstruction model.
 - *2024.6*: I will work as an intern in the AI department of [bilibili](https://www.bilibili.com) this summer.
 - *2023.12*: One paper **FAVOR** was accepted by [AAAI 2024](https://aaai.org/aaai-conference/)
