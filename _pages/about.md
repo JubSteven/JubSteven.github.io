@@ -37,7 +37,7 @@ I'm currently an undergraduate student at [Shanghai Jiao Tong University](https:
   <div class="paper-box-text">
     <p><strong>PoseAnything6D: Generalized Object Pose Estimation via Cousin Reference</strong></p>
 
-    <p>In submission to ICCV 2025</p>
+    <p>In submission to NeurIPS 2025</p>
   </div>
 </div>
 
