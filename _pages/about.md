@@ -16,11 +16,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently an undergraduate student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), majoring in Computer Science and Technology (IEEE Pilot Class). I'm now a research intern in [Machine Vision and Intelligence Group](https://www.mvig.org/) (MVIG), under the supervision of Prof. [Cewu Lu](https://www.mvig.org/) and Prof. [Lixin Yang](https://lixiny.github.io/). My research interests include computer vision, multi-modal models as well as embodied intelligence. I welcome any invitation for collaboration or discussion.
+I'm currently a master's student at [National University of Singapore](https://nus.edu.sg/). Previously, I got my Bachelor's degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), majoring in Computer Science and Technology (IEEE Pilot Class). I was fortunate to work under the supervision of Prof. [Cewu Lu](https://www.mvig.org/) and Prof. [Lixin Yang](https://lixiny.github.io/). My research interests include computer vision, multi-modal models as well as embodied intelligence. 
 
 
 # 🔥 News
-- *2025.5*: &nbsp;🎉🎉 I have accepted the offer from [National University of Singapore](https://nus.edu.sg/) and will pursue a master of computing in Artificial Intelligence starting in August 2025. 
 - *2024.8*: We release **POEM-v2** as a generalizable multi-view hand mesh reconstruction model.
 - *2024.6*: I will work as an intern in the AI department of [bilibili](https://www.bilibili.com) this summer.
 - *2023.12*: One paper **FAVOR** was accepted by [AAAI 2024](https://aaai.org/aaai-conference/)
@@ -152,7 +151,8 @@ I'm currently an undergraduate student at [Shanghai Jiao Tong University](https:
 - *2022.3* Finalist of Mathematical Contest of Modeling (top 5%)
 
 # 📖 Educations
-- *2021.09 - (now)*, Shanghai Jiao Tong University, Shanghai, China.
+- *2025.08 -*, National University of Singapore, Singapore.
+- *2021.09 - 2025.06*, Shanghai Jiao Tong University, Shanghai, China.
 - *2018.09 - 2021.06*, Shanghai High School, Shanghai, China (Outstanding Graduate).
 
 <!-- # 💬 Invited Talks
