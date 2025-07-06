@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Pengxiang Zhu"
   avatar           : "images/intro_img.jpg"
-  bio              : "Shanghai Jiao Tong University"
-  location         : "Shanghai, China"
+  bio              : "National University of Singapore"
+  location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4IQDolIAAAAJ&hl=en&oi=ao"
-  email            : "zhu_peng_xiang@sjtu.edu.cn"
+  email            : "pengxiang_zhu@u.nus.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a master's student at [National University of Singapore](https://nus.edu.sg/). Previously, I got my Bachelor's degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), majoring in Computer Science and Technology (IEEE Pilot Class). I was fortunate to work under the supervision of Prof. [Cewu Lu](https://www.mvig.org/) and Prof. [Lixin Yang](https://lixiny.github.io/). My research interests include computer vision, multi-modal models as well as embodied intelligence. 
+I'm currently a master's student at [National University of Singapore](https://nus.edu.sg/) majoring in Artificial Intelligence. Previously, I got my Bachelor's degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), majoring in Computer Science and Technology (IEEE Pilot Class). I was fortunate to work under the supervision of Prof. [Cewu Lu](https://www.mvig.org/) and Prof. [Lixin Yang](https://lixiny.github.io/). My research interests include computer vision, multi-modal models as well as embodied intelligence. 
 
 
 # 🔥 News
@@ -151,7 +151,7 @@ I'm currently a master's student at [National University of Singapore](https://n
 - *2022.3* Finalist of Mathematical Contest of Modeling (top 5%)
 
 # 📖 Educations
-- *2025.08 -*, National University of Singapore, Singapore.
+- *2025.08 - Present*, National University of Singapore, Singapore.
 - *2021.09 - 2025.06*, Shanghai Jiao Tong University, Shanghai, China.
 - *2018.09 - 2021.06*, Shanghai High School, Shanghai, China (Outstanding Graduate).
 
