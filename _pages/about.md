@@ -20,7 +20,7 @@ I'm currently a master's student at [National University of Singapore](https://n
 
 
 # 🔥 News
-- *2024.8*: We release **POEM-v2** as a generalizable multi-view hand mesh reconstruction model.
+- *2025.7*: **POEM-v2** has been accepted as a generalizable multi-view hand mesh reconstruction model.
 - *2024.6*: I will work as an intern in the AI department of [bilibili](https://www.bilibili.com) this summer.
 - *2023.12*: One paper **FAVOR** was accepted by [AAAI 2024](https://aaai.org/aaai-conference/)
 - *2023.07*: I have spent wonderful two weeks attending the summer course [IDS2301](https://datascience.hku.hk/2023/07/idss-2301-immersing-oneself-in-a-very-meaningful-vacation-through-the-hku-ids-summer-course-stay-proud-as-our-first-batch-of-potential-data-scientists/) at [HKU-IDS](https://datascience.hku.hk/#).
@@ -51,7 +51,7 @@ I'm currently a master's student at [National University of Singapore](https://n
   <div class="paper-box-text">
     <p><strong>Multi-view Hand Reconstruction with a Point-Embedded Transformer</strong></p>
 
-    <p>arXiv | <a href="https://arxiv.org/abs/2408.10581">Paper</a> | <a href="https://github.com/JubSteven/POEM-v2">Code</a></p>
+    <p>IEEE-TPAMI | <a href="https://arxiv.org/abs/2408.10581">Paper</a> | <a href="https://github.com/JubSteven/POEM-v2">Code</a></p>
 
     <p><a href="https://lixiny.github.io/">Lixin Yang</a>, <a href="https://colmar-zlicheng.github.io/">Licheng Zhong</a>, <b><u>Pengxiang Zhu</u></b>, Xinyu Zhan, Junxiao Kong, Jian Xu, <a href="http://mvig.org">Cewu Lu</a> </p>
   
