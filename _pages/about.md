@@ -44,14 +44,14 @@ I'm currently a master's student at [National University of Singapore](https://n
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <div class="badge">arXiv</div>
+      <div class="badge">TPMAI</div>
       <img src="images/POEM-v2.png" alt="sym" width="100%">
     </div>
   </div>
   <div class="paper-box-text">
     <p><strong>Multi-view Hand Reconstruction with a Point-Embedded Transformer</strong></p>
 
-    <p>IEEE-TPAMI | <a href="https://arxiv.org/abs/2408.10581">Paper</a> | <a href="https://github.com/JubSteven/POEM-v2">Code</a></p>
+    <p><strong>IEEE-TPAMI</strong> | <a href="https://arxiv.org/abs/2408.10581">Paper</a> | <a href="https://github.com/JubSteven/POEM-v2">Code</a></p>
 
     <p><a href="https://lixiny.github.io/">Lixin Yang</a>, <a href="https://colmar-zlicheng.github.io/">Licheng Zhong</a>, <b><u>Pengxiang Zhu</u></b>, Xinyu Zhan, Junxiao Kong, Jian Xu, <a href="http://mvig.org">Cewu Lu</a> </p>
   
