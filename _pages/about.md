@@ -122,13 +122,6 @@ I'm currently a master's student at [National University of Singapore](https://n
     </div>
   </div>
 </div>
-  <!-- <div class="paper-box-image">
-    <div>
-      <a href="https://www.mvig.org/">
-      <img src="images/SJTU_logo.png" alt="sym" width="80px" style="padding: 10px">
-      </a>
-    </div>
-  </div> -->
 <div class="paper-box-right">
   <div class="paper-box-text">
     <p>Department of AI Technology, <a href="https://www.bilibili.com/">bilibili</a></p>
@@ -139,6 +132,20 @@ I'm currently a master's student at [National University of Singapore](https://n
     <div>
       <a href="https://www.bilibili.com/">
       <img src="images/bilibili.jpg" alt="sym" width="100px" style="padding: 10px">
+      </a>
+    </div>
+  </div>
+</div>
+<div class="paper-box-right">
+  <div class="paper-box-text">
+    <p>MiroMind AI</a></p>
+    <p>AI Scientist Intern, <em>2025.9 - (now)</em></p>
+    <p>Mentor: <a href="https://binwang.xyz/">Bin Wang</a></p>
+  </div>
+  <div class="paper-box-image">
+    <div>
+      <a href="https://miromind.ai/">
+      <img src="images/miromind_ai_logo.jpeg" alt="sym" width="100px" style="padding: 10px">
       </a>
     </div>
   </div>
