@@ -16,10 +16,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a master's student at [National University of Singapore](https://nus.edu.sg/) majoring in Artificial Intelligence. Previously, I got my Bachelor's degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), majoring in Computer Science and Technology (IEEE Pilot Class). Currently, I am working with Dr. [Junbin Xiao](https://doc-doc.github.io/cv/) under the supervision of Prof. [Angela Yao](https://www.comp.nus.edu.sg/~ayao/) at [CVML Group](https://cvml.comp.nus.edu.sg/). I was fortunate to work under the supervision of Prof. [Cewu Lu](https://www.mvig.org/) and Prof. [Lixin Yang](https://lixiny.github.io/). My research interests include computer vision, multi-modal models as well as embodied intelligence. 
+I'm currently a master's student at [National University of Singapore](https://nus.edu.sg/) majoring in Artificial Intelligence. Previously, I got my Bachelor's degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), majoring in Computer Science and Technology (IEEE Pilot Class). Currently, I am working with Dr. [Junbin Xiao](https://doc-doc.github.io/cv/) under the supervision of Prof. [Angela Yao](https://www.comp.nus.edu.sg/~ayao/) at [CVML Group](https://cvml.comp.nus.edu.sg/). I was fortunate to work under the supervision of Prof. [Cewu Lu](https://www.mvig.org/) and Prof. [Lixin Yang](https://lixiny.github.io/). My research interests include computer vision, multi-modal models and agentic frameworks.
 
 
 # 🔥 News
+- *2025.9*: I will work as an AI Scientist Intern at [MiroMind AI](https://miromind.ai/) focusing on LLM agent frameworks.
 - *2025.7*: **POEM-v2** has been accepted as a generalizable multi-view hand mesh reconstruction model.
 - *2024.6*: I will work as an intern in the AI department of [bilibili](https://www.bilibili.com) this summer.
 - *2023.12*: One paper **FAVOR** was accepted by [AAAI 2024](https://aaai.org/aaai-conference/)
