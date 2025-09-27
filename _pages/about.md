@@ -139,7 +139,7 @@ I'm currently a master's student at [National University of Singapore](https://n
 </div>
 <div class="paper-box-right">
   <div class="paper-box-text">
-    <p>MiroMind AI</a></p>
+    <p><a href="https://miromind.ai/">MiroMind AI</a></p>
     <p>AI Scientist Intern, <em>2025.9 - (now)</em></p>
     <p>Mentor: <a href="https://binwang.xyz/">Bin Wang</a></p>
   </div>
